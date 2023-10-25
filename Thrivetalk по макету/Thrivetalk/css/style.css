@@ -1,0 +1,1413 @@
+/*Info*/
+
+.header {
+    position: relative;
+    width: 1440px;
+    height: 629px;
+    background-color: #fff;
+}
+
+.logo {
+    position: absolute;
+    width: 126px;
+    height: 40px;
+    padding: 39px 1263px 550px 50px;
+}
+
+.text_made {
+    position: absolute;
+    width: 60px;
+    height: 18px;
+    padding: 217px 1147px 394px 233px;
+}
+
+.text__text_made {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color:#A259FF;
+}
+
+.main_text {
+    position: absolute;
+    width: 670px;
+    height: 86px;
+    padding: 156px 452px 347px 412px;
+}
+
+.text__main_text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 72px;
+    color: #000;
+    line-height: 75px;
+}
+
+.main_designer {
+    position: absolute;
+    width: 450px;
+    height: 36px;
+    padding: 302px 636px 291px 414px;
+}
+
+.text__main_designer {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    line-height: 33px;
+    color: #000;
+}
+
+/*Навигация*/
+
+.navigation {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color:   #1ABCFE;;
+}
+
+.main_twitter {
+    position: absolute;
+    width: 237px; 
+    height: 27px;
+  
+}
+
+.text__main_twitter {
+    display: block;
+    padding: 405px 789px 197px 414px;
+}
+
+.main_dribbble {
+    position: absolute;
+    width: 229px; 
+    height: 27px; 
+}
+
+.text__main_dribbble {
+    display: block;
+    padding: 405px 490px 197px 721px;
+}
+
+.main_kshitij {
+    position: absolute;
+    width: 92px; 
+    height: 27px;
+}
+
+.text__main_kshitij {
+    display: block;
+    padding: 405px 328px 197px 1020px;
+}
+
+/*Помощь*/
+
+.main_support {
+    position: absolute;
+    width: 735px;
+    height: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 555px 405px 51px 414px;
+}
+
+.text__main_support {
+    display: inline;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: #696969;
+}
+
+/* landingpage */
+
+.landing_page {
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+}
+
+.main_block {
+    position: absolute;
+    width: 1437px;
+    height: 840px;
+    background-color: #9ea272;
+}
+
+/*Logo*/
+
+.main_logo {
+    position: absolute;
+    width: 100px;
+    height: 27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text__main_logo {
+    font-size: 24px;
+    line-height: 26px;
+    color: #62D0DF;
+    padding: 27px 938px 786px 179px;
+}
+
+/*Main Navigation*/
+
+.header_nav {
+    display: inline-block;
+    font-size: 20px;
+    list-style-type: none;
+    color: #22356F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.hover__header_nav {
+    color: #000;
+}
+
+   /* padding: 8px 13px;
+    display: block;
+    text-align:center;
+    text-decoration: none;
+    content: '';
+    display: block;
+    height: 1px;
+    background: #000;*/
+
+.home__header_nav {
+    position: absolute;
+    width: 55px;
+    height: 20px;
+    padding: 38px 455px 788px 607px ;
+
+}
+
+.about__header_nav {
+    position: absolute;
+    width: 55px;
+    height: 20px;
+    padding: 38px 365px 788px 697px ;
+}
+
+.services__header_nav {
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    padding: 38px 285px 788px 787px ;
+}
+
+.blog__header_nav {
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    padding: 38px 185px 788px 887px ;
+}
+
+.logo_x2 {
+    position: absolute;
+    width: 100px;
+    height: 27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text__logo_x2 {
+    font-size: 24px;
+    line-height: 26px;
+    color: #62D0DF;
+    padding: 170px 938px 856px 179px;
+}
+
+.main_text_landing {
+    position: absolute;
+    width: 480px;
+    height: 167px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 195px 920px 470px 179px;
+}
+
+.help__main_text_landing {
+    color: #22356F;
+    text-align: left;
+    font-size: 48px;
+    color: #22356F;
+}
+
+.talanted_main {
+    position: absolute;
+    width: 469px;
+    height: 161px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 421px 935px 258px 179px;
+}
+
+.text__talanted_main {
+    color: #22356F;
+    line-height: 42px;
+    font-size: 24px
+}
+
+/*Button*/
+
+.who_do_i_button {
+    position: absolute;
+    width: 150px;
+    height: 52px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 685px 788px 127px 179px;
+}
+
+.button__who_do_i_button {
+    border: 0;
+    border-radius: 5px;
+    background-color: rgb(200, 185, 71);
+    font-size: 16px;
+}
+
+.text___button__who_do_i_button {
+ color: #fff;
+}
+
+.button__who_do_i_button:hover {
+    cursor: pointer;
+    transition: all 0.5s ease; 
+    outline: none;
+}
+
+.button__who_do_i_button:active {
+    box-shadow: none;
+    transform: translateY(5px) translateX(5px);
+}
+
+.who_i_button {
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 685px 600px 115px 367px;
+}
+
+.button__who_i_button {
+    border: 0;
+    border-radius: 5px;
+    background-color: #9ea272;
+    font-size: 16px;
+}
+
+.text___button__who_i_button {
+    color: rgb(200, 185, 71);
+}
+
+.button__who_i_button:hover {
+    cursor: pointer;
+    transition: all 0.5s ease; 
+    outline: none;
+}
+
+.button__who_i_button:active {
+    box-shadow: none;
+    transform: translateY(5px) translateX(5px);
+}
+
+.white_img2 {
+    position: absolute;
+    width: 330px;
+    height: 795px;
+    background-color: #eaff00;
+    margin: 0 0 0 1110px;
+
+}
+
+.white_img {
+    position: absolute;
+    width: 808px;
+    height: 545px;
+    left: 835px;
+    top: 0;
+}
+
+.nigga_img {
+    position: absolute;
+    width: 807px;
+    height: 545px;
+    left: 835px;
+    top: 165px;
+}
+
+.radius__nigga_img {
+    border-radius: 300px;
+    transform: matrix(-0., 0.87, 0.87, 0.5, 0, 0x);  
+    clip-path:circle(70%);
+    background: #EDFDFF;
+    
+}
+
+.contact_us_button {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    margin: 0px 614px 673px 1123px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button__contact_us_button {
+    padding: 15px;
+    background-color: #62D0DF;
+    border-radius: 50px;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.button__contact_us_button:hover {
+    cursor: pointer;
+    transition: all 0.3s ease; 
+    outline: none;
+}
+
+.button__contact_us_button:active {
+    box-shadow: none;
+    transform: translateY(5px) translateX(5px);
+}
+
+/*Why Thrive? Conteiner*/
+
+.why_thrive_conteiner{
+    position: absolute;
+    width: 1437px;
+    height: 607px;
+    margin: 840px 0 0 0;
+    background-color: #62D0DF;
+}
+
+
+/*Синий блок*/
+
+.why__blue__why_thrive_conteiner {
+    position: absolute;
+    width: 263px;
+    height: 51px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 131px 1036px 425px 178px;
+    font-size: 36px;
+}
+
+.text__blue__why_thrive_conteiner{
+    position: absolute;
+    width: 555px;
+    height: 235px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 277px 704px 95px 178px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.bold___text__blue__why_thrive_conteiner {
+    font-size: 26px;
+}
+
+/*Cristofer foto*/
+
+.cristofel__why_thrive_conteiner {
+    position: absolute;
+    width: 525px;
+    height: 607px;
+    padding: 0 2px 3px 914px;
+}
+
+/* About Us block */
+
+.section_about_us_conteiner {
+    position: absolute;
+    width: 1440px;
+    height: 366px;
+    margin: 1446px 0 0 0;
+    background-color: #fff;
+}
+
+.main__section_about_us_conteiner {
+    position: absolute;
+    width: 93px;
+    height: 40px;
+    padding: 140px 1241px 186px 106px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #22356F;
+}
+
+.text__section_about_us_conteiner {
+    position: absolute;
+    width: 592px;
+    height: 210px;
+    font-size: 24px;
+    color: #22356F;
+    line-height: 33.75px;
+    padding: 140px 424px 0 424px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*WE CAN HELP YOU WITH block*/
+
+.we_can_help_you_with {
+    position: absolute;
+    width: 1440px;
+    height: 97px;
+    margin: 1826px 0 0 0;
+    background-color: #fff;
+}
+
+.main__we_can_help_you_with {
+    position: absolute;
+    width: 201px;
+    height: 21px;
+    font-size: 16px 50%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    color: rgba(91, 84, 84, 0.5);
+    padding: 53px 619px 13px 620px;
+}
+
+
+/*Sport*/
+
+.Sport_conteiner {
+    position: absolute;
+    width: 1440px;
+    height: 360px;
+    margin: 1927px 0 0 0;
+    background-color: #fff;
+    display: inline-flex;
+    justify-content: space-evenly;    
+}
+
+
+
+.weight_lifting__sport_conteiner {
+    width: 360px;
+    height: 360px;
+    background-color: #c06b6b;
+}
+
+.list___weight_lifting__sport_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.list___weight_lifting__sport_conteiner::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.list___weight_lifting__sport_conteiner:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___weight_lifting__sport_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.running_spinning__sport_conteiner {
+    width: 360px;
+    height: 360px;
+    background-color: #79cf4b;
+}
+
+.list___running_spinning__sport_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.list___running_spinning__sport_conteiner::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.list___running_spinning__sport_conteiner:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___running_spinning__sport_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.pumping_iron_cyan__sport_conteiner {
+    width: 360px;
+    height: 360px;
+    background-color: #2dd7c9;
+}
+
+.list___pumping_iron_cyan__sport_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.list___pumping_iron_cyan__sport_conteiner::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.list___pumping_iron_cyan__sport_conteiner:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___pumping_iron_cyan__sport_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.pumping_iron_blue__sport_conteiner {
+    width: 360px;
+    height: 360px;
+    background-color: #200fb7;
+}
+
+.list___pumping_iron_blue__sport_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.list___pumping_iron_blue__sport_conteiner::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.list___pumping_iron_blue__sport_conteiner:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___pumping_iron_blue__sport_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+/*Health*/
+
+.health_conteiner {
+    position: absolute;
+    width: 1440px;
+    height: 960px;
+    margin-top: 2407px;
+    background-color: #fff;
+    display: inline-flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.list___Physical_Health__health_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+ul::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+ul:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___Physical_Health__health_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.Physical_Health__health_conteiner{
+    width: 480px;
+    height: 480px;
+    background-color: #1a1070;
+}
+
+.list___Mental_Health__health_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+ul::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+ul:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___Mental_Health__health_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.Mental_Health__health_conteiner {
+    width: 480px;
+    height: 480px;
+    background-color: #2911fc;
+}
+
+.list___Nutrition__health_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.marker____list___Nutrition__health_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.Nutrition__health_conteiner {
+    width: 480px;
+    height: 480px;
+    /*background-image: url("img/92a80edb8b973a793ef7422d5a3e4496.jpg") lightgray 50% / cover no-repeat;*/
+}
+
+.Strawberry___Nutrition__health_conteiner {
+    position: absolute;
+    display: inline-flex;
+}
+
+.list___Nutrition__health_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.list___Nutrition__health_conteiner::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.list___Nutrition__health_conteiner:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___Nutrition__health_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.Gymnastics__health_conteiner {
+    width: 480px;
+    height: 480px;
+    background-color: #2eb0e8;
+}
+
+.list___Gymnastics__health_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.list___Gymnastics__health_conteiner::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.list___Gymnastics__health_conteiner:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___Gymnastics__health_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.Crossfit__health_conteiner {
+    width: 480px;
+    height: 480px;
+    background-color: #200fb7;
+}
+
+.list___Crossfit__health_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.list___Crossfit__health_conteiner::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.list___Crossfit__health_conteiner:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___Crossfit__health_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.Aerobics__health_conteiner {
+    width: 480px;
+    height: 480px;
+    background-color: #c924c4;
+}
+
+.list___Aerobics__health_conteiner {
+    display: inline-block;
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.list___Aerobics__health_conteiner::before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    transform: scaleX(0);
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.list___Aerobics__health_conteiner:hover::before {
+    transform: scaleX(1);
+}
+
+.marker____list___Aerobics__health_conteiner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+::marker {
+    color: #eaff00;
+}
+
+/*Workout*/
+
+.workout_conteiner {
+    position: absolute;
+    width: 1440px;
+    height: 480px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 3389px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+ 
+}
+
+.nutritional_plans__workout_conteiner {
+    width: 480px;
+    height: 240px;
+}
+
+.heading___nutritional_plans__workout_conteiner {
+    width: 234px;
+    height: 36px;
+    flex-shrink: 0;
+    color: #22356F;
+    font-family: Larsseit;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 141px 0 105px;
+
+}
+
+.text___nutritional_plans__workout_conteiner {
+    width: 298px;
+    height: 84px;
+    flex-shrink: 0;
+    color: rgba(34, 53, 111, 0.50);
+    font-family: Larsseit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 0 77px 0 105px;
+}
+
+.weight_loss__workout_conteiner {
+    width: 480px;
+    height: 240px;
+}
+
+.heading___weight_loss__workout_conteiner {
+    width: 234px;
+    height: 36px;
+    flex-shrink: 0;
+    color: #22356F;
+    font-family: Larsseit;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 141px 0 105px;
+}
+
+.text___weight_loss__workout_conteiner {
+    width: 298px;
+    height: 84px;
+    flex-shrink: 0;
+    color: rgba(34, 53, 111, 0.50);
+    font-family: Larsseit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 0 77px 0 105px;
+}
+
+.mental_peace__workout_conteiner {
+    width: 480px;
+    height: 240px;
+}
+
+.heading___mental_peace__workout_conteiner {
+    width: 234px;
+    height: 36px;
+    flex-shrink: 0;
+    color: #22356F;
+    font-family: Larsseit;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 141px 0 105px;
+}
+
+.text___mental_peace__workout_conteiner {
+    width: 298px;
+    height: 84px;
+    flex-shrink: 0;
+    color: rgba(34, 53, 111, 0.50);
+    font-family: Larsseit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 0 77px 0 105px;
+}
+
+.home_training__workout_conteiner {
+    width: 480px;
+    height: 240px;
+}
+
+.heading___home_training__workout_conteiner{
+    width: 234px;
+    height: 36px;
+    flex-shrink: 0;
+    color: #22356F;
+    font-family: Larsseit;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 141px 0 105px;
+}
+
+.text___home_training__workout_conteiner {
+    width: 298px;
+    height: 84px;
+    flex-shrink: 0;
+    color: rgba(34, 53, 111, 0.50);
+    font-family: Larsseit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 0 77px 0 105px;
+}
+
+.work_life_balance__workout_conteiner {
+    width: 480px;
+    height: 240px;
+}
+
+.heading___work_life_balance__workout_conteiner {
+    width: 234px;
+    height: 36px;
+    flex-shrink: 0;
+    color: #22356F;
+    font-family: Larsseit;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 141px 0 105px;
+}
+
+.text___work_life_balance__workout_conteiner {
+    width: 298px;
+    height: 84px;
+    flex-shrink: 0;
+    color: rgba(34, 53, 111, 0.50);
+    font-family: Larsseit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 0 77px 0 105px;
+}
+
+.cardio__workout_conteiner {
+    width: 480px;
+    height: 240px;
+    
+}
+
+.heading___cardio__workout_conteiner {
+    width: 234px;
+    height: 36px;
+    flex-shrink: 0;
+    color: #22356F;
+    font-family: Larsseit;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 141px 0 105px;
+}
+
+.text___cardio__workout_conteiner {
+    width: 298px;
+    height: 84px;
+    flex-shrink: 0;
+    color: rgba(34, 53, 111, 0.50);
+    font-family: Larsseit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 0 77px 0 105px;
+}
+
+/*CTA*/
+
+.CTA_conteiner {
+    position: absolute;
+    width: 1440px;
+    height: 800px;
+    margin-top: 3909px;
+    background-color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.linkedin__CTA_conteiner {
+    position: absolute;
+    padding-right: 960px;
+}
+
+.main_top__CTA_conteiner {
+    position: absolute;
+    padding: 103px 634px 677px 589px;
+    width: 217px;
+    height: 20px;
+}
+
+.text___main_top__CTA_conteiner {
+    color: #22356F;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0%; 
+}
+
+.main_down__CTA_conteiner {
+    position: absolute;
+    padding: 308px 175px 257px 589px;
+    width: 676px;
+    height: 215px;
+}
+
+.text___main_down__CTA_conteiner {
+    color: #22356F;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.Trivetalk____text___main_down__CTA_conteiner {
+    color: #6CD3E1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 0%;
+    letter-spacing: -0.36px;
+}
+
+/*Button*/
+
+.get_help_now__CTA_conteiner {
+    position: absolute;
+    width: 160px;
+    height: 43px;
+    padding: 705px 701px 42px 589px;
+}
+
+.button___get_help_now__CTA_conteiner {
+    border: 0;
+    border-radius: 5px;
+    background: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+
+.button___get_help_now__CTA_conteiner:hover {
+    cursor: pointer;
+    transition: all 0.5s ease; 
+    outline: none;
+}
+
+.button___get_help_now__CTA_conteiner:active {
+    box-shadow: none;
+    transform: translateY(5px) translateX(5px);
+}
+
+.text____button___get_help_now__CTA_conteiner {
+    color: gold;
+}
+
+/*Ready. Set. Smile*/
+
+.ready_set_smile{
+    position: absolute;
+    width: 1440px;
+    height: 800px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 4701px;
+    background-color: #22356F;;
+}
+
+.charles__ready_set_smile {
+    position: absolute;
+    padding-left: 960px;
+}
+
+.contact__ready_set_smile {
+    position: absolute;
+    width: 108px;
+    height: 14px;
+    padding: 103px 1152px 683px 180px;
+    color: #FFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.text__ready_set_smile {
+    position: absolute;
+    width: 707px;
+    height: 66px;
+    padding: 347px 556px 387px 180px;
+    color: #FFF;
+    font-family: Larsseit;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.online__ready_set_smile {
+    position: absolute;
+    width: 579px;
+    height: 253px;
+    padding: 488px 681px 59px 180px;
+    color: #FFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+/*Button*/
+
+.get__ready_set_smile {
+    position: absolute;
+    width: 160px;
+    height: 43px;
+    padding: 715px 1100px 42px 180px;
+}
+
+.button___get__ready_set_smile {
+    border: 0;
+    border-radius: 5px;
+    background: #22356F;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button___get__ready_set_smile:hover {
+    cursor: pointer;
+    transition: all 0.5s ease; 
+    outline: none;
+}
+
+.button___get__ready_set_smile:active {
+    box-shadow: none;
+    transform: translateY(5px) translateX(5px);
+}
+
+.text____button___get__ready_set_smile {
+    color: #53ccff;
+}
+
+/*Footer*/
+
+.footer {
+    position: absolute;
+    width: 1440px;
+    height: 460px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5501px;
+}
+
+/*Footer Info*/
+
+.footer_info {
+    position: absolute;
+    width: 1440px;
+    height: 380px;
+
+}
+
+.autumn_goodman__footer_info {
+    position: absolute;
+    padding-right: 880px;
+}
+
+.heading__footer_info {
+    display: flex;
+    padding-left: 630px;
+    justify-content: space-evenly;
+    margin-top: 98px;
+}
+
+.some_info___heading__footer_info {
+    width: 240px;
+    height: 48px;
+}
+
+.text____some_info___heading__footer_info {
+    color: #22356F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 10px;
+    align-items: center;
+}
+
+.enfold_health___heading__footer_info {
+    width: 240px;
+    height: 48px;
+}
+
+.text____enfold_health___heading__footer_info {
+    color: #22356F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 10px;
+    align-items: center;
+}
+
+.office_hours___heading__footer_info {
+    width: 240px;
+    height: 48px;
+}
+
+.text____office_hours___heading__footer_info {
+    color: #22356F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 10px;
+    align-items: center;
+}
+
+/*Footer Text*/
+
+.text_footer {
+    display: flex;
+    padding-left: 630px;
+    justify-content: space-evenly;
+
+}
+
+.lorem__text_footer {
+    width: 207px;
+    height: 115px;
+}
+
+.info___lorem__text_footer {
+    color: rgba(34, 53, 111, 0.50);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    padding-top: 25px;
+}
+
+.street__text_footer {
+    width: 240px;
+    height: 115px;
+}
+
+.info___street__text_footer {
+    color: rgba(34, 53, 111, 0.50);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    margin-left: 24px;
+    white-space: pre-line;
+}
+
+.href____info___street__text_footer {
+    text-decoration: none;
+}
+
+.adress__text_footer {
+    width: 240px;
+    height: 115px;
+}
+
+.info___adress__text_footer {
+    color: rgba(34, 53, 111, 0.50);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    margin-left: 20px;
+    white-space: pre-line;
+}
+
+/*End Landing*/
+
+.end__footer_info {
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    background-color: #1ABCFE;
+    margin-top: 380px;
+}
+
+.marker___end__footer_info {
+    position: absolute;
+    padding: 32px 1255px 36px 179px;
+}
+
+.text___end__footer_info {
+    position: absolute;
+    width: 351px;
+    height: 22px;
+    padding: 32px 893px 26px 199px;
+}
